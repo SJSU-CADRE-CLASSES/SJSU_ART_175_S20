@@ -15,3 +15,8 @@ Class Website: https://github.com/ablanton/SJSU_ART_175_S20
 [GreenSheet](https://github.com/ablanton/SJSU_ART_175_S20/blob/master/GREENSHEET.md)
 | [Resources](https://github.com/ablanton/SJSU_ART_175_S20/blob/master/RESOURCES.md)
 | [Class Website](https://github.com/ablanton/SJSU_ART_175_S20)
+
+Resources
+---------
+
+
