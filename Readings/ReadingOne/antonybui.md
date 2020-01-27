@@ -1,0 +1,10 @@
+##Antony Bui
+
+##Reading 1
+
+#Visual + Audio
+
+	The best use for visual and audio is usually seen in raves or music concerts. 
+	My favorite use of audio and visual goes to the music video, Shelter - Porter Robinson and Madeon. A-1 Pictures and Crunchyroll helped produce the video and story but watching it made the song just so much better. The voice acting and hand drawn animation were detailed and superb. Robinson didn’t animate the video he had some influence on the video and story. Off the top of my head I cannot recall anyone that is able to do both visual and audio that has blown me away or left a lasting effect on me. The creator of some games , mostly indie games, have worked on visual and audio but I am unsure whether it would count if it is not a performance or something you can just sit back and watch. The game “One Hour One Life” has a single developer and he made most if not all the sounds effects with what he had lying around or with his voice/mouth. He created a simple art style that made it easy to navigate the game. The sound effects are very funny and the art style definitely fits the sounds. The other game developer that I know that worked on sound/music and art/visual has to be Toby Fox. He is an inspirational artist and composer. Almost every track in the game “Undertale” has left me coming back. The artstyle didn’t push the music but I believe that helped the music play a bigger role instead of the visuals. 
+
+	Sometimes when watching and listening to an audio/visual track I would try to zone out one to try to get a sense of just one. I do this to music videos to get a sense of whether I would still enjoy the song during a car ride or at school. Most of the time the visual aspect of the song really makes a difference on whether I would download the song or not. The visuals of a song might come back in my head while listening to it and it helps me enjoy it a lot more. I believe this is similar to what John Cage tries to accomplish. Or it could be me just thinking wrong but when he took the sound out of his performance and worked with visual it really changed what the audience experiences. 
