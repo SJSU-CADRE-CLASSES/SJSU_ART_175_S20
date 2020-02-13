@@ -83,8 +83,8 @@ Schedule
 | *Week 1* 01/24      | Course Introduction /Overview of Syllabus ** Introductions (Instructor-Students) ** Online Research ** Git Registration ** Screen Inspiration Videos ** 20Obj Introduction ** Due Assignment 1 **Assign Reading 1** |
 | *Week 2* 01/31      | **Due: Reading One** ** 20Obj 01 + 02 |
 | *Week 3* 02/07      | **Presentation Day  ---> Student Presentation of Second Project** ** 20Obj 03 + 04 |
-| *Week 4* 02/14      | **Due: Reading Two** ** 20Obj 05 + 06 |
-| *Week 5* 02/21      | 20Obj 06 + 07 |
+| *Week 4* 02/14      | ** 20Obj 05 + 06 |
+| *Week 5* 02/21      | **Due: Reading Two** 20Obj 06 + 07 |
 | *Week 6* 02/28      | **Presentation Day  ---> Student Presentation of Third Project** 20Obj 08 + 09|
 | *Week 7* 03/06      | 20Obj 10 + 11 ** Screen: Related Work |
 | *Week 8* 03/13      | **Due: Reading Three** ** 20Obj 12 + 13 ** Screen: Related Work ** Work in class on projects |
