@@ -1,3 +1,6 @@
+Reading Two
+===========
+
 For the second reading of the semester, please read the following interview and watch the videos from the discussion with artist Nic Collins.
 
 https://booksandideas.net/Hacking-Through-Contemporary-Electronic-Music.html
