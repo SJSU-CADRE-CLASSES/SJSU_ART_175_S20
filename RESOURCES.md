@@ -55,3 +55,15 @@ Resources
 7. Cellular Automata https://en.wikipedia.org/wiki/Cellular_automaton
 8. Herbie Hancock https://www.youtube.com/watch?v=4HstHoZfFVo
 
+2/14
+1. UnityOSC https://github.com/thomasfredericks/UnityOSC
+2. Piezo Mic's https://www.amazon.com/Luvay-12Pcs-Pickup-Transducer-Prewired/dp/B0775V78D1?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duckduckgo-d-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B0775V78D1
+3. Ariadne https://vimeo.com/177236733
+4. Imogen Heap https://www.youtube.com/watch?time_continue=152&v=ci-yB6EgVW4&feature=emb_title
+5. Imogen Heap hide and Seek https://www.youtube.com/watch?v=UYIAfiVGluk
+6. Everyday Listening http://www.everydaylistening.com/
+7. Of Nature and Things https://www.youtube.com/watch?v=u4fhq3H6imk
+8. Laurie Anderson Pilow Speaker https://www.youtube.com/watch?time_continue=168&v=Ul25TPz0fGE&feature=emb_title
+9. Pamela Z https://www.youtube.com/watch?v=j7AZsQoD630&feature=emb_title
+10. Types of Mic's http://www.techwarelabs.com/mxl-fr-310-hot-shoe-shotgun-microphone-review/
+11. Motu https://motu.com/en-us/
