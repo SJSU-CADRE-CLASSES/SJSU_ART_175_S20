@@ -1,4 +1,5 @@
 #Sound art
+
 I believe sound is art. Mostly music being art because I love music a lot. There are some songs that are just above the rest, whether it be lyrical or tunes. Albums are a whole package as there is a piece of artwork associated with it as well as songs that fit within. 
 “Nic Collins is a Professor in the Department of Sound at the School of the Art Institute of Chicago.” He invented certain musical devices and seems to find ways to hack cd players.
 
