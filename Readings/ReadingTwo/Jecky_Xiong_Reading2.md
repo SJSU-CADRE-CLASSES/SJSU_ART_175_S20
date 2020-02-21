@@ -7,7 +7,7 @@ it as a fellow artist. It might just be because I was born in a generation so us
 extraordinary might give indifferent feelings. 
 <br/>
 
-And like I stated above, I believe that sound is a great medium for art creation, because of how abstract it can become. 
+Like I stated above, I believe that sound is a great medium for art creation, because of how abstract it can become. 
 You can take any sound and edit it in so many ways that it will not sound how it would originally sound and that’s why I 
 think the idea of synthesizers are so amazing. I enjoy the piece they put into the interview that was made by Alvin Lucier, 
 because the fact that all he did was record a monologue and in the end, it became this melodic sound piece is astonishing. 
