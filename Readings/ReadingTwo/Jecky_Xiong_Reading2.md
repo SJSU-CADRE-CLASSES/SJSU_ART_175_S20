@@ -15,6 +15,7 @@ Sound art and technology goes hand in hand. Most of the time, sound art uses tec
 it, displaying it, or modifying it. The creation of sound art may even spark new technological pieces, like what Nic Collins
 did with his <i>Tobabo Fonio</i> piece. 
 <br/>
+
 All in all, sound art is intriguing, and a very creative medium like any other medium. Nic Collins shows that well with 
 his work and while opinions differentiate about liking his work or not, it is still appreciated in the whole of things. 
 Sound art is something that can be awkward getting into I believe, but ultimately in the end, it can become something worthwhile. 
