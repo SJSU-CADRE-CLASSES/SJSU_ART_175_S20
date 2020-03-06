@@ -1,0 +1,5 @@
+Project 3
+
+For this project I wanted to make a face that looked like it was singing a song. As I was building it out I noticed that it looked a lot like the face of retro graphics from the early days of 3D rendering and I wanted to build off of that once that became evident. The connections served to give the face a polygonal shape that was reminiscent of this retro style, making it more faceted. I wanted to use a piano for the teeth, so it made sense to stick to the piano sound for this project. I had to make sure the volume wasn’t adjusting below audible levels so I made the connection run through a +30 so that at all times, the puppet, hologram face could be heard.
+
+I had fun playing with a level of abstraction and found that with some color shifts to the sliders, I was able to make the mouth look like it was opening up and animating with the sound. I used a cyan background because I was thinking of Zordan from the power rangers, not really the right time period but cyan was also a color they used in the virtual space from the Sci Fi movie Lawn Mower Man, which used the graphics that I was referring to earlier.
