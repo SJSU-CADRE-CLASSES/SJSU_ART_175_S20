@@ -76,3 +76,5 @@ Resources
 5. Keijiro https://github.com/keijiro/Pix2Pix
 6. Cinder https://www.libcinder.org/
 7. Not Not & Ping https://vimeo.com/86922461
+8. Flight 404 https://vimeo.com/31278330
+9. Ricardo Dal Farra https://www.youtube.com/watch?v=nEUXmf6UCss
