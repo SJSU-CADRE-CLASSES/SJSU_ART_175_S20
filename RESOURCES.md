@@ -68,6 +68,14 @@ Resources
 10. Types of Mic's http://www.techwarelabs.com/mxl-fr-310-hot-shoe-shotgun-microphone-review/
 11. Motu https://motu.com/en-us/
 
+2/28
+1. Rosa Menkman https://rosa-menkman.blogspot.com/
+2. Ramsey Nasser Alb https://nas.sr/%D9%82%D9%84%D8%A8/
+3. DiMoDa https://dimoda.art/
+4. History of Programming Languages https://cdn.oreillystatic.com/news/graphics/prog_lang_poster.pdf
+5. EsoLangs https://esolangs.org/wiki/Main_Page
+6. Glitch Manifesto https://archive.org/stream/RosaMenkmanGlitchStudiesManifesto_201504/%20Rosa%20Menkman%20-%20Glitch%20Studies%20Manifesto_djvu.txt
+
 3/6
 1. Andrew Benson https://pixlpa.com/melter/
 2. Lifewater  https://www.lifewtr.com/en-us/home/andrew-benson-prime
