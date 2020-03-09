@@ -67,3 +67,12 @@ Resources
 9. Pamela Z https://www.youtube.com/watch?v=j7AZsQoD630&feature=emb_title
 10. Types of Mic's http://www.techwarelabs.com/mxl-fr-310-hot-shoe-shotgun-microphone-review/
 11. Motu https://motu.com/en-us/
+
+3/6
+1. Andrew Benson https://pixlpa.com/melter/
+2. Lifewater  https://www.lifewtr.com/en-us/home/andrew-benson-prime
+3. Zach Liberman https://www.instagram.com/zach.lieberman/
+4. Open Frameworks https://openframeworks.cc/download/
+5. Keijiro https://github.com/keijiro/Pix2Pix
+6. Cinder https://www.libcinder.org/
+7. Not Not & Ping https://vimeo.com/86922461
