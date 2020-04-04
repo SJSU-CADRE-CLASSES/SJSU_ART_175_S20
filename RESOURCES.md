@@ -86,3 +86,26 @@ Resources
 7. Not Not & Ping https://vimeo.com/86922461
 8. Flight 404 https://vimeo.com/31278330
 9. Ricardo Dal Farra https://www.youtube.com/watch?v=nEUXmf6UCss
+
+3/13
+1. AV Teaching Resources https://docs.google.com/document/d/1TIkUVHLa9VaTSP-Q3RXuWcRwoog9or8SJB2vdlB4Jwo/edit
+2. VCV Virtual Eurorack https://vcvrack.com/Rack
+3. Dynamics of Water and Wind https://vimeo.com/249043697
+4. Max work https://www.youtube.com/watch?v=MWt6ZdIbTlY
+5. Max Forums https://cycling74.com/forums/
+6. Max Packages https://cycling74.com/packages/
+7. Moog Stnthesizers https://www.moogmusic.com/synthesizers?type=29
+8. Brian Eno 77 million paintings https://www.youtube.com/watch?v=HFp9KWncc50
+9. Center for Computer Research in Music and Acoustics https://ccrma.stanford.edu/
+10. Center for New Music and Audio Technology https://cnmat.berkeley.edu/
+
+3/27
+1. Glitch Manifesto https://archive.org/details/RosaMenkmanGlitchStudiesManifesto_201504/page/n5/mode/2up
+2. UnityOSC https://thomasfredericks.github.io/UnityOSC/
+3. Frozen Cascade https://vimeo.com/12095422
+4. Bill Viola https://www.youtube.com/watch?time_continue=13&v=K4YwCqErNcI&feature=emb_title
+5. San Jose Museum - Almost Human - https://sjmusart.org/exhibition/almost-human-digital-art-permanent-collection
+6. Max Patch Style https://twitter.com/hardmaru/status/963769835153891328
+7. Thoughts on Glitch Art http://nickbriz.com/thoughtsonglitchart/
+8. Max VR https://github.com/worldmaking/vr
+
