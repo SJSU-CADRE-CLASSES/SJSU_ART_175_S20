@@ -109,3 +109,19 @@ Resources
 7. Thoughts on Glitch Art http://nickbriz.com/thoughtsonglitchart/
 8. Max VR https://github.com/worldmaking/vr
 
+4/17
+1. Windows, Rainbows & Dinos https://vimeo.com/15821484
+2. RoboRoach https://www.thedodo.com/cockroach-controlled-phone-roboroach-1932330780.html
+3. Ferrofluid https://www.youtube.com/watch?v=1NCqYlvkcXs
+4. Bent Speak & Spell https://www.youtube.com/watch?v=prvqXP58yH4
+5. Breadboard Synth https://www.youtube.com/watch?v=8cYDpRrCw30
+5. Esolang https://esolangs.org/wiki/%F0%9F%86%92
+6. NATO.0+55+3D https://en.wikipedia.org/wiki/Nato.0%2B55%2B3d
+7. code::art::0 https://code-art.xyz/pdfs/issue0.pdf
+8. fork bomb https://en.wikipedia.org/wiki/Fork_bomb
+9. black midi https://www.youtube.com/watch?v=o8oG9MbHbXo
+10. Tristan Perich 1-Bit Symphony https://vimeo.com/14410320
+11. Demo Scene http://www.pouet.net/prod.php?which=30244
+12. NVScene team reel https://www.youtube.com/watch?v=PidTKpKLYZM
+13. Amiga32 https://www.amigafrance.com/vampire-500-v4/
+14. Farvrausch fr-041 https://www.youtube.com/watch?v=wqu_IpkOYBg
