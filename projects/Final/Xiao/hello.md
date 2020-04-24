@@ -1,1 +1,1 @@
-
+I'm going to use 2D illustration as the base material of the project and adding effect to it with Max's real time effect. I'm going to look some kind of interaction between the project and the audience. The theme is to tell my thinking of the situation of 'unprepared' Coronavirus disaster in an unobvious way.
