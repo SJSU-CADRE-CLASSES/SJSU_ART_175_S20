@@ -125,3 +125,15 @@ Resources
 12. NVScene team reel https://www.youtube.com/watch?v=PidTKpKLYZM
 13. Amiga32 https://www.amigafrance.com/vampire-500-v4/
 14. Farvrausch fr-041 https://www.youtube.com/watch?v=wqu_IpkOYBg
+
+4/24
+1. Wonder Bible https://www.youtube.com/watch?v=QqEmjDmgqu8
+2. FM3 Buddha https://www.amazon.com/Buddha-Machine-II-Aqua-Lime/dp/B0023GL87I
+3. Buddha 3 https://www.amazon.com/Buddha-Machine-3-Fm3/dp/B0191U6HGK/ref=pd_sbsd_15_1/132-7400099-7606556?_encoding=UTF8&pd_rd_i=B0191U6HGK&pd_rd_r=50c21e7f-5f6f-4053-9aa2-8db572d43385&pd_rd_w=fkGdM&pd_rd_wg=2LYyd&pf_rd_p=2c2d0d3b-b3c5-4110-93fa-2c1270309ac1&pf_rd_r=H6R49V1TG3113G2YTJBD&psc=1&refRID=H6R49V1TG3113G2YTJBD
+4. Circuit Sniffing https://www.youtube.com/watch?v=4T7qkYY7LZM&list=PLyFW-rnLqSeGxwsL0FL160g8y6XmdHZcQ
+5. Romantic Self Exiles https://vimeo.com/38340522
+6. Bent Pikachu https://www.youtube.com/watch?v=K2Q9Ij7oUHM
+7. Listen to Wikepedia http://listen.hatnote.com/
+8. MIRA https://cycling74.com/products/mira/
+9. Eye Writer http://eyewriter.org/
+10. Tiger Car Projection https://www.youtube.com/watch?v=iLjdbemGNuU
