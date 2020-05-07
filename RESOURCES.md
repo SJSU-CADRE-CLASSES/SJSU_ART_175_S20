@@ -137,3 +137,12 @@ Resources
 8. MIRA https://cycling74.com/products/mira/
 9. Eye Writer http://eyewriter.org/
 10. Tiger Car Projection https://www.youtube.com/watch?v=iLjdbemGNuU
+
+5/1
+1. Jeremy Bailey https://www.youtube.com/channel/UC_RrbILoc6ieJ8Beh-bfn8A
+2. Google Sky https://www.google.com/sky/
+3. 100,000 Stars http://stars.chromeexperiments.com/
+4. Plexus Shaders https://experiments.withgoogle.com/plexus-shaders
+5. WebGL Globe https://experiments.withgoogle.com/chrome/globe
+6. Syphon http://syphon.v002.info/
+7. Sequencer Tut https://www.youtube.com/watch?v=oG511n-iBdc
