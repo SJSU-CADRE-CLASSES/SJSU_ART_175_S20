@@ -96,5 +96,5 @@ Schedule
 | *Week 14* 04/24     | Screen Inspiration Videos + discussion ** Work in class on projects |
 | *Week 15* 05/01     | **Due Ideas + Concepts for the final project** (each student/team must post to git with sketches/research notes/and concepts they are interested in) Work in class on final |
 | *Week 16* 05/08     | **Presentation Day** ---> Student Presentation of Final Project |
-| *Final*  TBD        | **Final Project Due** *** The final project + paper is due no later then Sunday December 17th |
+| *Final*  TBD        | **Final Project Due** *** The final project + paper is due no later then May 14th |
 |                  |  |
