@@ -13,16 +13,25 @@ Overall, I got inspired from one of my favorite poems, The Night I Count the Sta
 “...To a star memory
 
 To a star love
+
 To a star loneliness
+
 To a star yearning
+
 To a star poem
+
 To a star mother, mother
+
+
  
 Mother, I whisper a beautiful word to a star.
 .
 .
 .
+
 They are too far away.
+
 As far as the stars.
+
 …”
 
