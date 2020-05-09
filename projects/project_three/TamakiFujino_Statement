@@ -1,0 +1,5 @@
+Using the makenote object and grabber from vizzie, I created a soud visualization.
+The movie of live video camera of your laptop changes its hue, saturation, lightness and pixel.
+By using the counter object the scale of piano changes one by one continuously.
+You can let the random object and counter object play the piano and change the effect of the video, 
+but also you can simple pick one of the key from the piano and see the change of the effect of video.
